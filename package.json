@@ -1,0 +1,23 @@
+{
+  "name": "chatws",
+  "version": "1.0.0",
+  "description": "This is chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekchouksey/Chat.git"
+  },
+  "keywords": [
+    "Chat",
+    "socket.io"
+  ],
+  "author": "Abhishek Chouksey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhishekchouksey/Chat/issues"
+  },
+  "homepage": "https://github.com/abhishekchouksey/Chat#readme"
+}
